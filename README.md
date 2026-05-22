@@ -7,3 +7,4 @@ A low cost scanning tunnelling miroscope for break-junction experiments
 
 ![Partial cutaway illustration of the STM](Figures/graphical_abstract_01.png)
 
+More information and build guide will be added soon
